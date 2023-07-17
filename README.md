@@ -80,6 +80,3 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jeevanpranav02&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeevanpranav02&theme=gotham&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanpranav02&theme=gotham)](https://github.com/jeevanpranav02/github-readme-stats)
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevanpranav02&show_icons=true&locale=en" alt="jeevanpranav02" /></p> -->
-![THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
