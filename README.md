@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/jeevanpranav02/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeevanpranav02/" height="30" width="40" />
   </a>
-  <a href="https://github.com/jeevanpranav02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeevanpranav02" height="30" width="40" />
-  </a>
   <a href="https://auth.geeksforgeeks.org/user/(<itchypsycho>/practice)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<jeevanpranav02>/practice)" height="30" width="40" />
   </a>
